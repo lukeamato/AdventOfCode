@@ -1,1 +1,2 @@
-Repo to keep track of Advent of Code solutions over the years
+# produce-historical-broker-acct-chart
+Lambda function template to calculate a broker account's historical chart simply based on current positions &amp; transaction history
